@@ -52,6 +52,18 @@
       "plugin": "users-permissions",
       "model": "user",
       "via": "projects"
+    },
+    "nproject": {
+      "type": "string"
+    },
+    "role": {
+      "type": "string"
+    },
+    "team": {
+      "type": "string"
+    },
+    "location": {
+      "type": "string"
     }
   }
 }
