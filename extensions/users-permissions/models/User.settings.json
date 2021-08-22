@@ -59,9 +59,9 @@
       "plugin": "users-permissions",
       "configurable": false
     },
-    "events": {
+    "projects": {
       "via": "user",
-      "collection": "events"
+      "collection": "projects"
     }
   }
 }
