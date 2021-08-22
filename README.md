@@ -2,7 +2,7 @@ nickgu.com (Strapi Backend)
 
 > Strapi backend for nickgu.com website.
 
-A Next.js frontend is working with this backend
+The nickgu.com Next.js frontend is working with this backend
 
 # Usage
 
