@@ -1,6 +1,6 @@
 {
   "kind": "collectionType",
-  "collectionName": "events",
+  "collectionName": "projects",
   "info": {
     "name": "projects",
     "description": ""
@@ -51,7 +51,7 @@
     "user": {
       "plugin": "users-permissions",
       "model": "user",
-      "via": "events"
+      "via": "projects"
     }
   }
 }
