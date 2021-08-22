@@ -1,8 +1,8 @@
-DJ Events (Strapi Backend)
+nickgu.com (Strapi Backend)
 
-> Strapi backend for the DJ Events website. This is part of my Next.js course on Udemy
+> Strapi backend for nickgu.com website.
 
-The Next.js frontend can be found [here](https://github.com/bradtraversy/dj-events-frontend)
+A Next.js frontend is working with this backend
 
 # Usage
 
