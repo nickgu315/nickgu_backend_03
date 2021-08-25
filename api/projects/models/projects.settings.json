@@ -37,12 +37,12 @@
       "type": "richtext"
     },
     "image": {
-      "model": "file",
+      "collection": "file",
       "via": "related",
       "allowedTypes": [
         "images",
-        "files",
-        "videos"
+        "videos",
+        "files"
       ],
       "plugin": "upload",
       "required": false,
