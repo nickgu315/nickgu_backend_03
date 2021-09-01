@@ -91,6 +91,9 @@
     },
     "shortd": {
       "type": "richtext"
+    },
+    "video_t1": {
+      "type": "string"
     }
   }
 }
