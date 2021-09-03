@@ -94,6 +94,9 @@
     },
     "video_t1": {
       "type": "string"
+    },
+    "sq_id": {
+      "type": "integer"
     }
   }
 }
